@@ -26,10 +26,6 @@ Why I create this project? The browser will response a header to a remote server
 # API Reference
 javascript wsh.
 
-# Custom your user agent
-* Just open and edit the *useragentstring.txt* text file.
-* *useragentstring.txt* supports the IE, Chrome, Safari, Opera, Firefox newest version browsers.
-
 # Environment
 * Programming with javascript wsh.
 * Test on Windows XP.
