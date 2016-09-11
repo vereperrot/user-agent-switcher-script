@@ -9,17 +9,17 @@ Why I create this project? The browser will response a header to a remote server
 
 # Installation For Chrome
 1. Download and install the [chrome](https://www.google.com.tw/chrome/browser/desktop/).
-1. Download *user-agent-switcher.js* and *useragentstring.txt* source files into the **C:\Program Files\Google\Chrome\Application** directory.
-1. Select and right click on the *user-agent-switcher.js* script file to go the sub menu **Open File| Select Program**. Then pick the opened program as **Microsoft (R) Windows Based Script Host**, and check **always use the program to open this file**. Click **OK** button to apply it.
-1. Select and right click on the *user-agent-switcher.js* script file to go the sub menu **Send To|Desktop as shortcut**.
+1. Download *user-agent-switcher-chrome.js* and *useragentstring.txt* source files into the **C:\Program Files\Google\Chrome\Application** directory.
+1. Select and right click on the *user-agent-switcher-chrome.js* script file to go the sub menu **Open File| Select Program**. Then pick the opened program as **Microsoft (R) Windows Based Script Host**, and check **always use the program to open this file**. Click **OK** button to apply it.
+1. Select and right click on the *user-agent-switcher-chrome.js* script file to go the sub menu **Send To|Desktop as shortcut**.
 1. Now you can click the shortcut to start chrome with a random user agent.
 1. You can go to [User Agnet String.com](http://www.useragentstring.com/index.php) to check current user agent.
 
 # Installation For Portable Firefox
 1. Download and install the [portable firefox](http://portableapps.com/apps/internet/firefox_portable).
-1. Download *user-agent-switcher.js* and *useragentstring.txt* source files into the **FirefoxPortable** folder.
-1. Select and right click on the *user-agent-switcher.js* script file to go the sub menu **Open File| Select Program**. Then pick the opened program as **Microsoft (R) Windows Based Script Host**, and check **always use the program to open this file**. Click **OK** button to apply it.
-1. Select and right click on the *user-agent-switcher.js* script file to go the sub menu **Send To|Desktop as shortcut**.
+1. Download *user-agent-switcher-portablefirefox.js* and *useragentstring.txt* source files into the **FirefoxPortable** folder.
+1. Select and right click on the *user-agent-switcher-portablefirefox.js* script file to go the sub menu **Open File| Select Program**. Then pick the opened program as **Microsoft (R) Windows Based Script Host**, and check **always use the program to open this file**. Click **OK** button to apply it.
+1. Select and right click on the *user-agent-switcher-portablefirefox.js* script file to go the sub menu **Send To|Desktop as shortcut**.
 1. Now you can click the shortcut to start firefox with a random user agent.
 1. You can go to [User Agnet String.com](http://www.useragentstring.com/index.php) to check current user agent.
 
